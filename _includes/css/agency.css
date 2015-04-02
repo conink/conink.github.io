@@ -11,6 +11,10 @@ body {
     color: #{{ site.color.secondary-dark }};
 }
 
+.contact-info {
+  text-align: center;
+}
+
 
 .text-muted {
     color: #777;
