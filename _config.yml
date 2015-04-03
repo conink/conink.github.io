@@ -47,7 +47,7 @@ people:
 
 - name: Kasper Duong
   pic: kasper
-  position: Software Engineering
+  position: Computer Science and Engineering
   social:
     - title: twitter
       url: #
@@ -58,7 +58,7 @@ people:
 
 - name: Mark Ian Svenningsen
   pic: mark
-  position: Software Engineering
+  position: Computer Science and Engineering
   social:
     - title: twitter
       url: #
@@ -66,6 +66,8 @@ people:
       url: #
     - title: google-plus
       url: #
+    - title: github
+      url: https://github.com/masve
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -82,8 +84,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: DTU Skylab
+  - line: 2800 Kongens Lyngby
 
 # Build settings
 markdown: kramdown
