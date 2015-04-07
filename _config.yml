@@ -22,6 +22,8 @@ people:
       url: #
     - title: facebook
       url: #
+    - title: linkedin
+      url: https://dk.linkedin.com/pub/carsten-keinicke-fjord-christensen/70/215/984
 
 - name: Dinesan Rasiah
   pic: dinesan
@@ -32,7 +34,7 @@ people:
     - title: facebook
       url: #
     - title: linkedin
-      url: #
+      url: https://dk.linkedin.com/in/dinesan/da
 
 - name: Albert Davidsen
   pic: 3
@@ -44,6 +46,8 @@ people:
       url: #
     - title: google-plus
       url: #
+    - title: linkedin
+      url: https://dk.linkedin.com/pub/albert-wieck-davidsen/42/79/a71/da
 
 - name: Kasper Duong
   pic: kasper
@@ -54,7 +58,9 @@ people:
     - title: facebook
       url: #
     - title: linkedin
-      url: #
+      url: https://dk.linkedin.com/pub/kasper-duong/70/238/187
+    - title: github
+      url: https://github.com/dxong
 
 - name: Mark Ian Svenningsen
   pic: mark
@@ -66,6 +72,8 @@ people:
       url: #
     - title: google-plus
       url: #
+    - title: linkedin
+      url: https://dk.linkedin.com/pub/mark-ian-svenningsen/4b/948/177/da
     - title: github
       url: https://github.com/masve
 
