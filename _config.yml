@@ -4,7 +4,7 @@ baseurl:
 # Site settings
 title: Conductive Ink
 email: conductiveinkdtu@gmail.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Landing page for project Conductive Ink"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -66,16 +66,12 @@ people:
   pic: mark
   position: Computer Science and Engineering
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
     - title: linkedin
       url: https://dk.linkedin.com/pub/mark-ian-svenningsen/4b/948/177/da
     - title: github
       url: https://github.com/masve
+    - title: bitbucket
+      url: http://bitbucket.org/masve
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
