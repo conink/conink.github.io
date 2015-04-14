@@ -4,7 +4,7 @@ baseurl:
 # Site settings
 title: InVisiSwitch
 email: conductiveinkdtu@gmail.com
-description: "Landing page for project InvisiSwitch"
+description: "InVisiSwitch goes beyond of the traditional switch that are used in many buildings to toggle electrical appliances. By using non-mechanical components and materials that are not only transparent but also conductive, it enables InVisiSwitch to be applied on surfaces and thereby function as a regular switch."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
